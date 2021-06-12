@@ -5,7 +5,7 @@ public static void main(string args[])
 
   {
   
-  a=20;
+  a=400;
   }
   
   }  
